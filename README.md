@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre Mim
 
-Estudante de Computação com formação em Redes e experiência prática em suporte técnico corporativo.  
+Estudante de Licenciatura da Computação com formação Superior completa em Redes de Computadores com experiência prática em suporte técnico corporativo.  
 Atuação com Active Directory, Windows Server, TCP/IP, segmentação de rede e monitoramento com Zabbix.  
 
 Perfil analítico, organizado e orientado à resolução de problemas em ambientes de TI.
