@@ -1,78 +1,73 @@
 # 👨‍💻 Pedro Lucio Cardoso Matos Junior
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-blue)
-![Focus](https://img.shields.io/badge/Focus-Networks%20%7C%20Infrastructure%20%7C%20Security-green)
-![Location](https://img.shields.io/badge/Location-Bras%C3%ADlia--DF-lightgrey)
-
-🎓 Licenciatura em Computação – Universidade de Brasília  
-🌐 Redes | Infraestrutura | Suporte Técnico | Segurança  
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-blue" />
+  <img src="https://img.shields.io/badge/Focus-Networks%20%7C%20Infrastructure%20%7C%20Security-green" />
+  <img src="https://img.shields.io/badge/Active%20Directory-Intermediate-informational" />
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-orange" />
+</p>
 
 ---
 
-## 🧠 Sobre Mim
+## 🚀 Sobre Mim
 
 Estudante de Computação com formação em Redes e experiência prática em suporte técnico corporativo.  
-Atuação com Active Directory, Windows Server, TCP/IP e monitoramento com Zabbix.  
-Perfil analítico, organizado e orientado à resolução de problemas.
+Atuação com Active Directory, Windows Server, TCP/IP, segmentação de rede e monitoramento com Zabbix.  
+
+Perfil analítico, organizado e orientado à resolução de problemas em ambientes de TI.
 
 ---
 
-# 🚀 Projetos Técnicos
+# 🖧 Laboratório de Redes – VLAN + Firewall
 
-## 🔹 Monitoramento de Rede com Zabbix
-- Configuração de hosts e triggers
-- Monitoramento ICMP
-- Análise de métricas
-- Geração de relatórios
+## 🔥 Simulação de Segmentação de Rede
 
-📌 Tecnologias: `Zabbix` `TCP/IP` `LAN/WAN`
+- VLAN 10 – Usuários Administrativos
+- VLAN 20 – Usuários Operacionais
+- Servidor central (AD/DNS)
+- Firewall com regras ACL e NAT
+- Controle de tráfego inter-VLAN
 
----
-
-## 🔹 Administração de Active Directory
-- Criação e organização de usuários em OU
-- Controle básico de permissões
-- Reset de senhas
-- Suporte a domínio Windows
-
-📌 Tecnologias: `Windows Server` `Active Directory` `DNS`
+📌 Conceitos aplicados:
+`VLAN` `Segmentação` `Firewall` `ACL` `NAT` `TCP/IP`
 
 ---
 
-## 🔹 Segurança de Rede na Pandemia
-Projeto acadêmico com foco em vulnerabilidades no trabalho remoto.
+## 🗺️ Diagrama da Topologia
 
-- Análise de vetores de ataque
-- Estudo de boas práticas
-- Levantamento bibliográfico
-
----
-
-# 🖧 Diagrama de Rede
-
-![Diagrama de Rede](./diagrama_rede_portfolio.png)
+![Diagrama VLAN](./diagrama_vlan_firewall.png)
 
 ---
 
 # 🛠️ Stack Técnica
 
-**Sistemas**
+### Sistemas
 - Windows 10
 - Windows Server
 - Active Directory
 
-**Redes**
+### Redes
 - TCP/IP
+- VLAN
 - LAN/WAN
 - Conceitos de roteamento
 
-**Monitoramento**
+### Monitoramento
 - Zabbix
 - Grafana
 
-**Metodologias**
-- ITIL
-- Scrum
+### Segurança
+- ISO/IEC 27001
+- Boas práticas de segurança
+
+---
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default"/>
+</p>
 
 ---
 
@@ -89,5 +84,4 @@ Projeto acadêmico com foco em vulnerabilidades no trabalho remoto.
 # 📫 Contato
 
 📧 plcmjr@gmail.com  
-📱 (61) 99262-7009  
 🔗 LinkedIn: linkedin.com/in/pedroluciojunior
