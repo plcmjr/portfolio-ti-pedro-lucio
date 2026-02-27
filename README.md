@@ -1,148 +1,88 @@
 # 👨‍💻 Pedro Lucio Cardoso Matos Junior
 
-📍 Brasília – DF  
-🎓 Estudante de Licenciatura em Computação – Universidade de Brasília  
-🌐 Foco: Suporte Técnico | Redes | Infraestrutura | Segurança da Informação  
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-blue)
+![Focus](https://img.shields.io/badge/Focus-Networks%20%7C%20Infrastructure%20%7C%20Security-green)
+![Location](https://img.shields.io/badge/Location-Bras%C3%ADlia--DF-lightgrey)
+
+🎓 Licenciatura em Computação – Universidade de Brasília  
+🌐 Redes | Infraestrutura | Suporte Técnico | Segurança  
 
 ---
 
 ## 🧠 Sobre Mim
 
-Sou estudante de Licenciatura em Computação pela Universidade de Brasília (UnB), com formação em Redes de Computadores e experiência prática em suporte técnico e infraestrutura de TI.
-
-Atuo com ambientes Windows, Active Directory, redes TCP/IP, monitoramento de sistemas e atendimento a usuários em ambiente corporativo.
-
-Tenho interesse em aprofundar conhecimentos nas áreas de redes, infraestrutura e segurança da informação.
+Estudante de Computação com formação em Redes e experiência prática em suporte técnico corporativo.  
+Atuação com Active Directory, Windows Server, TCP/IP e monitoramento com Zabbix.  
+Perfil analítico, organizado e orientado à resolução de problemas.
 
 ---
 
 # 🚀 Projetos Técnicos
 
----
-
-## 🔹 1. Monitoramento de Rede com Zabbix
-
-### 📌 Contexto
-Implementação de monitoramento de disponibilidade de rede em ambiente corporativo.
-
-### 🛠 Atividades
-- Configuração de hosts
+## 🔹 Monitoramento de Rede com Zabbix
+- Configuração de hosts e triggers
 - Monitoramento ICMP
-- Criação de triggers
+- Análise de métricas
 - Geração de relatórios
-- Acompanhamento de métricas
 
-### 🔧 Tecnologias
-- Zabbix
-- TCP/IP
-- Redes LAN/WAN
-
-### 📊 Resultado
-Melhoria na identificação de falhas e redução do tempo de resposta a incidentes.
+📌 Tecnologias: `Zabbix` `TCP/IP` `LAN/WAN`
 
 ---
 
-## 🔹 2. Administração de Active Directory
-
-### 📌 Contexto
-Gerenciamento de usuários em domínio Windows corporativo.
-
-### 🛠 Atividades
+## 🔹 Administração de Active Directory
 - Criação e organização de usuários em OU
-- Reset de senhas
 - Controle básico de permissões
-- Suporte a políticas de acesso
+- Reset de senhas
+- Suporte a domínio Windows
 
-### 🔧 Tecnologias
-- Windows Server
-- Active Directory
-- DNS
-
-### 📊 Resultado
-Padronização de acessos e melhoria na organização do ambiente.
+📌 Tecnologias: `Windows Server` `Active Directory` `DNS`
 
 ---
 
-## 🔹 3. Segurança de Rede na Pandemia
+## 🔹 Segurança de Rede na Pandemia
+Projeto acadêmico com foco em vulnerabilidades no trabalho remoto.
 
-### 📚 Projeto Acadêmico – Universidade de Brasília
-
-**Tema:** Segurança de rede na pandemia: impactos da COVID-19 no Brasil.
-
-### 🛠 Atividades
-- Pesquisa bibliográfica
-- Análise de estudos de caso
-- Levantamento de vulnerabilidades
-- Estudo de boas práticas de segurança
-
-### 📊 Resultado
-Análise crítica dos impactos do trabalho remoto na segurança corporativa.
+- Análise de vetores de ataque
+- Estudo de boas práticas
+- Levantamento bibliográfico
 
 ---
 
-# 💼 Experiência Profissional
+# 🖧 Diagrama de Rede
 
-## NAVA – Technology for Business
-Suporte Técnico em Telecomunicações (2024 – Atual)
-
-- Suporte remoto a circuitos
-- Diagnóstico de conectividade
-- Monitoramento de serviços
-- Elaboração de relatórios técnicos
-
-## Ilha Service Tecnologia e Serviços
-Suporte Técnico de TI (2020 – 2024)
-
-- Atendimento via sistema ITSM
-- Instalação e configuração de computadores
-- Suporte em Active Directory
-- Apoio em redes
-
-## Montreal Informática
-Suporte Técnico (2022 – 2023)
-
-- Atendimento a usuários
-- Configuração de impressoras
-- Apoio a infraestrutura básica
+![Diagrama de Rede](./diagrama_rede_portfolio.png)
 
 ---
 
-# 🛠️ Competências Técnicas
-
-**Suporte Técnico**
-- Atendimento N1 e N2
-- Troubleshooting
-- Suporte remoto e presencial
+# 🛠️ Stack Técnica
 
 **Sistemas**
 - Windows 10
 - Windows Server
 - Active Directory
-- DNS
 
 **Redes**
 - TCP/IP
 - LAN/WAN
-- Cabeamento estruturado
 - Conceitos de roteamento
 
 **Monitoramento**
 - Zabbix
 - Grafana
 
-**Segurança**
-- Conceitos ISO/IEC 27001
-- Boas práticas de segurança da informação
+**Metodologias**
+- ITIL
+- Scrum
 
 ---
 
 # 📜 Certificações
 
 - ITIL Foundation
-- Microsoft Windows 10 (MD-100)
-- ISO/IEC 27001 – Information Security Associate
-- Scrum Foundation Professional Certificate
-- CCNA – Introduction to Networks
+- Microsoft MD-100
+- ISO/IEC 27001
+- Scrum Foundation
+- CCNA Introduction to Networks
 
 ---
 
