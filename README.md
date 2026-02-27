@@ -15,69 +15,98 @@ Estudante de Licenciatura da Computação com formação Superior completa em Re
 Atuação com Active Directory, Windows Server, TCP/IP, segmentação de rede e monitoramento com Zabbix.  
 
 Perfil analítico, organizado e orientado à resolução de problemas em ambientes de TI.
+- Infraestrutura de TI
+- Redes Corporativas
+- Telecomunicações (WAN / Circuitos de Dados)
+- Gestão de Incidentes e SLA
+- Governança baseada em ITIL
+- Segurança da Informação (ISO/IEC 27001)
+
+Atuação em ambientes críticos, com foco em disponibilidade, continuidade operacional e eficiência de serviços de TI.
 
 ---
 
-# 🖧 Laboratório de Redes – VLAN + Firewall
+## 🎯 Objetivo Profissional
 
-## 🔥 Simulação de Segmentação de Rede
+Atuar em posição estratégica na área de Infraestrutura, Redes ou Telecomunicações, contribuindo para:
 
-- VLAN 10 – Usuários Administrativos
-- VLAN 20 – Usuários Operacionais
-- Servidor central (AD/DNS)
-- Firewall com regras ACL e NAT
-- Controle de tráfego inter-VLAN
+- Alta disponibilidade
+- Segurança da Informação
+- Governança de TI
+- Eficiência operacional
+---
 
-📌 Conceitos aplicados:
-`VLAN` `Segmentação` `Firewall` `ACL` `NAT` `TCP/IP`
+## 🏢 Experiência Profissional
+
+### 🔹 Especialista em Telecomunicações  
+NAVA – Technology for Business | 2024 – Atual  
+
+- Gestão de reparos em circuitos WAN  
+- Troubleshooting em NWB, Datacom e IP ADSL  
+- Garantia de SLA  
+- Interface com operadoras e equipes técnicas  
 
 ---
 
-## 🗺️ Diagrama da Topologia
+### 🔹 Analista de Suporte  
+Ilha Service Tecnologia e Serviços | 2020 – 2024  
 
-<img src="./assets/diagrama_vlan_firewall.png" width="800"/>
+- Active Directory  
+- Microsoft 365  
+- Diagnóstico de redes  
+- Gestão de incidentes via ITSM  
 
 ---
 
-# 🛠️ Stack Técnica
+### 🔹 Técnico de Campo / Helpdesk  
+Montreal Informática  
 
-### Sistemas
-- Windows 10
+- Implantação de estações corporativas  
+- Suporte N1/N2  
+- Configuração LAN  
+- Atendimento baseado em ITIL  
+
+---
+
+### 🔹 Suporte Técnico  
+Transdourada Transportes Ltda.  
+
+- Administração de rede local  
+- Backup e continuidade operacional  
+- Suporte a sistemas administrativos  
+
+---
+
+## 🛠 Stack Técnica
+
+**Infraestrutura**
 - Windows Server
 - Active Directory
+- Microsoft 365
 
-### Redes
+**Redes**
 - TCP/IP
+- DNS / DHCP
 - VLAN
-- LAN/WAN
-- Conceitos de roteamento
+- VPN
+- Circuitos WAN
 
-### Monitoramento
-- Zabbix
-- Grafana
-
-### Segurança
+**Governança**
+- ITIL
 - ISO/IEC 27001
-- Boas práticas de segurança
+- Gestão de SLA
+- Análise de Causa Raiz
 
 ---
 
-# 📊 Estatísticas GitHub
+## 📜 Certificações
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=plcmjr&show_icons=true&theme=default"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plcmjr&layout=compact&theme=default"/>
-</p>
+- MD-100 – Windows 10  
+- ITIL Foundation  
+- ISO/IEC 27001  
+- Scrum Foundation  
+- CCNA – Introdução às Redes  
 
----
-
-# 📜 Certificações
-
-- ITIL Foundation
-- Microsoft MD-100
-- ISO/IEC 27001
-- Scrum Foundation
-- CCNA Introduction to Networks
 
 ---
 
