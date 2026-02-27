@@ -35,7 +35,7 @@ Perfil analítico, organizado e orientado à resolução de problemas em ambient
 
 ## 🗺️ Diagrama da Topologia
 
-![Diagrama VLAN](./diagrama_vlan_firewall.png)
+<img src="./assets/diagrama_vlan_firewall.png" width="800"/>
 
 ---
 
@@ -65,8 +65,8 @@ Perfil analítico, organizado e orientado à resolução de problemas em ambient
 # 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=plcmjr&show_icons=true&theme=default"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plcmjr&layout=compact&theme=default"/>
 </p>
 
 ---
